@@ -39,3 +39,8 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
 - *Processador*
  -> Cérebro do computador. Linguagem em 0101 ( binario ), tem formato de chip. Transforma dados em informações. 
  
+ ### Aula 3° - Internet, Roteadores e Servidoress
+ 
+
+ 
+ 
