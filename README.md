@@ -26,7 +26,14 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
 
 - *Firmware* 
  -> Armazenar as informações para que o equipamento funcione corretamente. Pertence a um circuito integrado (chip) de memória hardware. 
+ 
  - *Drivers*
   -> Ponte entre o sistema operacional e o firmware dos dispositivos eletrônicos. 
  
+***Dentro do Computador***
+ - *RAM*
+  ->Espaço tempórario de informações do sistema operacional. 
+ 
+ - *HD e SSD*
+  -> HD usa pratos mecânicos e um cabeçote móvel de leitura/gravação para acessar dados. SSD possui apenas chips de memória. ( Memória a longo prazo ) 
  
