@@ -18,9 +18,15 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
 ***Hardware***
  -> Hardware é um termo técnico que se refere a parte físisca do computador e seus outros microeletronicos. (monitor, teclado, mouse, camera)
  
-*Periféricos*
+- *Periféricos*
  -> Dispositivo auxiliar usado para enviar ou receber informações do computador. Parte do Hardware.
 
 ***Software***
 -> Conjunto de instruções que permite controlar um aparelho eletrônico. Parte lógica do computador. 
 
+- *Firmware* 
+ -> Armazenar as informações para que o equipamento funcione corretamente. Pertence a um circuito integrado (chip) de memória hardware. 
+ - *Drivers*
+  -> Ponte entre o sistema operacional e o firmware dos dispositivos eletrônicos. 
+ 
+ 
