@@ -6,7 +6,7 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
  
    ***Programar***
 
--> Programar é por um lado relacionado a algoritmos (passos para resolver um problema, uma sequência lógica) e a Lógica de Programação (aplicando os passos para construir o algoritmo), entender como o computador funciona. E por outro lado dar instruções ( em cima de dados, com a manipulação, fazemos como uma receita de bolo) Resolver Problemas ( Entender o problema como chave, pois não da pra seguir sem ter conhecimento total da questão). 
+-> Programar é por um lado relacionado a algoritmos (passos para resolver um problema, uma sequência lógica) e a Lógica de Programação (aplicando os passos para construir o algoritmo), entender como o computador funciona. E por outro lado dar instruções ( em cima de dados, com a manipulação, fazemos como uma receita de bolo) Resolver Problemas ( Entender o problema como chave, pois não da pra seguir sem ter conhecimento total da questão).  
 
 ***Como funciona a Web?*** 
 
