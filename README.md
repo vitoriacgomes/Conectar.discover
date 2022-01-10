@@ -38,5 +38,4 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
   -> HD usa pratos mecânicos e um cabeçote móvel de leitura/gravação para acessar dados. SSD possui apenas chips de memória. ( Memória a longo prazo ) 
 - *Processador*
  -> Cérebro do computador. Linguagem em 0101 ( binario ), tem formato de chip. Transforma dados em informações. 
- 
- 
+
