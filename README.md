@@ -15,6 +15,10 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
  
 ### Aula 2° - Hardware e Software
 
+ <details>
+  <summary>Hardware -> Computador <- Software</summary>
+
+
 ***Hardware***
  -> Hardware é um termo técnico que se refere a parte físisca do computador e seus outros microeletronicos. (monitor, teclado, mouse, camera)
  
@@ -38,4 +42,22 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
   -> HD usa pratos mecânicos e um cabeçote móvel de leitura/gravação para acessar dados. SSD possui apenas chips de memória. ( Memória a longo prazo ) 
 - *Processador*
  -> Cérebro do computador. Linguagem em 0101 ( binario ), tem formato de chip. Transforma dados em informações. 
+### 3° Internet, Roteadores e Servidores
 
+ ***Internet***
+  - Redes interligadas pelo mundo inteiro. Com o objetivo de interligar computadores e fornecer aos usuarios informações.
+   
+***Rede de Computadores***
+  - Conexâo de dispositivos para permitir a transmissão de daddos. Comunicação na internet é feita por protocolos (regras)
+   
+***IP e Mac Address***
+  - Protocol é o número identificador dado a cada computador, ou roteador, pelo provedor de internet no momento da concção a rede. Atravès do IP o computador pode enviar e receber dados na internet.
+   
+***Servidores***
+  - Computador equipado com um ou mais processadores, portas de comunicação, softwares e outros sistemas. 
+   
+***DNS***
+  - São responsaveis por localizar e traduzir para números IP os endereços dos sites que digitamos. Permite que acesse um site digitando um endereço nominal em lugar de números. 
+   
+***HTTP***
+  - È um protocolo de transferência de dados.  
