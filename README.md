@@ -61,3 +61,20 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
 ***HTTP*** -> È um protocolo de transferência de dados.  
     </details>
   
+### 4° Sistemas Operacionais
+  
+ <details>
+  <summary> Windows/MacOS/Linux/Android</summary>
+  
+  ***O que é um Sistema Operacional*** -> É a interface entre usúario e a máquina, ela que controla o aparelho (gerencia os dispositivos, gerencia os aplicativos e as tarefas). Conversa com o computador na linguagem da máquina.
+-> Caracteristicas: Controle de hardware e Gerenciamento do Software. Se liga a experiência do usuário. 
+
+***Grupos de Sistemas Operacionais***
+  
+  UNIX - linux, OS X, Android, iOS
+  WINDOWS - 7, 10, Server.
+  
+  ***Tipos de Interfaces do Usuário***
+  
+  </details>
+  
