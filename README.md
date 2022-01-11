@@ -74,11 +74,20 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
   UNIX - linux, OS X, Android, iOS
   WINDOWS - 7, 10, Server.
   
-  ***Tipos de Interfaces do Usuário***
+***Tipos de Interfaces do Usuário***
   
   GUI -> Interface gráfica, elementos gráficos. ( cursor do mouse ou touch, Criar arquivos e pastas, área de trabalho)
   
   CLI -> Linhas de comando, emitir comandos em texto para o computador. (criar arquivos e pastas)
   
+***Modulos de Sistemas Operacionais***
+  
+  KERNEL -> Responsavel pela memoria, processos, armazenamentos e dispositivos. Primeiro módulo a ser iniciado. 
+  
+  GERENCIADOR DE PROCESSOS -> promama em execução. Pode ser executado em paralelo. 
+  
+  GERENCIADOR DE ARQUIVOS -> Lido com o gerenciamento e armazenamento de arquivos (pastas, videos, documentos)
+  
+  FERRAMENTAS DE GERENCIAMENTO -> TArefas (task manager, activity) e Pacotes (chocolatey, brew, apt, snap)
   </details>
   
