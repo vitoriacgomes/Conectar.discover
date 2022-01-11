@@ -76,5 +76,9 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
   
   ***Tipos de Interfaces do Usuário***
   
+  GUI -> Interface gráfica, elementos gráficos. ( cursor do mouse ou touch, Criar arquivos e pastas, área de trabalho)
+  
+  CLI -> Linhas de comando, emitir comandos em texto para o computador. (criar arquivos e pastas)
+  
   </details>
   
