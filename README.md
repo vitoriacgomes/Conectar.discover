@@ -91,3 +91,7 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
   Ferramentas de gerenciamento -> TArefas (task manager, activity) e Pacotes (chocolatey, brew, apt, snap)
   </details>
   
+  ### 5° Tipos de Aplicação WEB
+  
+  
+  
