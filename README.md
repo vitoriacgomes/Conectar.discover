@@ -82,12 +82,12 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
   
 ***Modulos de Sistemas Operacionais***
   
-  KERNEL -> Responsavel pela memoria, processos, armazenamentos e dispositivos. Primeiro módulo a ser iniciado. 
+  Kernel -> Responsavel pela memoria, processos, armazenamentos e dispositivos. Primeiro módulo a ser iniciado. 
   
-  GERENCIADOR DE PROCESSOS -> promama em execução. Pode ser executado em paralelo. 
+  Gerenciador de processos -> promama em execução. Pode ser executado em paralelo. 
   
-  GERENCIADOR DE ARQUIVOS -> Lido com o gerenciamento e armazenamento de arquivos (pastas, videos, documentos)
+  Gerenciador de arquivos -> Lido com o gerenciamento e armazenamento de arquivos (pastas, videos, documentos)
   
-  FERRAMENTAS DE GERENCIAMENTO -> TArefas (task manager, activity) e Pacotes (chocolatey, brew, apt, snap)
+  Ferramentas de gerenciamento -> TArefas (task manager, activity) e Pacotes (chocolatey, brew, apt, snap)
   </details>
   
