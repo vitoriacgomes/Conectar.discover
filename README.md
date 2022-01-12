@@ -93,15 +93,20 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
   
   ### Aula 5° Tipos de Aplicação WEB
   
-***WebPage*** -> (pagina da Web) Ela é acessada pelo navegador, encontrado pelo URL universal.Resposta dada pelo servidor é uma copia da pagina.(HTM, CSS, JavaScript).
+  <details>
+  <summary> Como funciona a Web </summary>
   
-***Websites*** -> Podem ser estaticos (a pag continua a mesma, alteração direto no código e por quem criou, nn interage com banco de dados) ou dinamicos. 
+- *WebPage* -> (pagina da Web) Ela é acessada pelo navegador, encontrado pelo URL universal.Resposta dada pelo servidor é uma copia da pagina.(HTM, CSS, JavaScript).
   
-***Aplicação WEB*** ->Programa que vive no servidor (linuagens de programação, banco de dados) Exemplo: Gmail, Figma, Youtube.
+- *Websites* -> Podem ser estaticos (a pag continua a mesma, alteração direto no código e por quem criou, nn interage com banco de dados) ou dinamicos. 
   
-***Front-end x Back-end*** -> Front ( Focado no cliente, digitar o URL e fazer um pedido para o servidor. São utilizados HTML, CSS, Javascript, Imagens) e Back (focado no servidor, recebe o pedido do front-end. Tecnologias são PHP,Java, Python, Javascript).
+- *Aplicação WEB* ->Programa que vive no servidor (linuagens de programação, banco de dados) Exemplo: Gmail, Figma, Youtube.
+  
+- *Front-end x Back-end* -> Front ( Focado no cliente, digitar o URL e fazer um pedido para o servidor. São utilizados HTML, CSS, Javascript, Imagens) e Back (focado no servidor, recebe o pedido do front-end. Tecnologias são PHP,Java, Python, Javascript).
+   </details>
  
- 
+### Aula 6° Linguagem de Programação
+  
   
   
   
