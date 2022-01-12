@@ -44,7 +44,7 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
  -> Cérebro do computador. Linguagem em 0101 ( binario ), tem formato de chip. Transforma dados em informações. 
   </details>
   
-### 3° Internet, Roteadores e Servidores
+### Aula 3° Internet, Roteadores e Servidores
    <details>
   <summary>Como funciona a Internet?</summary>
 
@@ -61,7 +61,7 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
 ***HTTP*** -> È um protocolo de transferência de dados.  
     </details>
   
-### 4° Sistemas Operacionais
+### Aula 4° Sistemas Operacionais
   
  <details>
   <summary> Windows/MacOS/Linux/Android</summary>
@@ -91,7 +91,9 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
   Ferramentas de gerenciamento -> TArefas (task manager, activity) e Pacotes (chocolatey, brew, apt, snap)
   </details>
   
-  ### 5° Tipos de Aplicação WEB
+  ### Aula 5° Tipos de Aplicação WEB
+  
+  ***WebPage*** -> (pagina da Web) Ela é acessada pelo navegador, encontrado pelo URL universal.
   
   
   
