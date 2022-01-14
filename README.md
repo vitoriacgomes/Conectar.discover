@@ -107,6 +107,14 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
  
 ### Aula 6° Linguagem de Programação
   
+ ***Codar?*** -> Escrever para o computador, da forma que ele possa entender. Seguir as regras da linguagem, pois é uma linguagem humana x máquina. 
+  
+ ***Linguagem de programação***
+  O computador tem a sua linguagem baseada em 0 e 1 (binaria), porém para nos comunicarmos com o computador, usamos uma linguagem mais abstrata. Low-level (baixo nível) conta com a linguagem mais proxima do computador, é mais dificil, porém mais rapida. Ou contrario do High-level uma liguagem mais proxima da humana, porem depende dos interpratadores/tradutores. 
+  
+ ***Sintaxe***
+  -> Lembrando que a sintaxe são as regras da linguagem utilizada. A ling. de programação utiliza simbolos () e palavras reservadas como: if,else,for,var, let
+  
   
   
   
