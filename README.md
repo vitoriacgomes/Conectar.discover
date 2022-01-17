@@ -115,7 +115,7 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
  ***Sintaxe***
   -> Lembrando que a sintaxe são as regras da linguagem utilizada. A ling. de programação utiliza simbolos () e palavras reservadas como: if,else,for,var, let
   
-  
+  .
   
   
   
